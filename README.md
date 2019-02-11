@@ -1,5 +1,5 @@
 # Python
-Python 从入门到实践
+《Python 从入门到实践》
 
 ###所谓“Python 之禅 ”的几条原则
 

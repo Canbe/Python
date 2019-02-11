@@ -56,5 +56,14 @@ print(sorted(test,reverse=True))
 test.reverse()
 print(test)
 
+
 #知识点8：获取列表长度
 print(len(test))
+
+#知识点9：不可改变的列表称为元组，用圆括号进行标识
+
+test9_group = (1,2,3,4)
+print(test9_group)
+
+
+
