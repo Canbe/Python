@@ -16,7 +16,7 @@
 #func(1,2)
 
 ##知识点4：导入所有函数
-from src.test_module import *
+from src.Python从入门到精通.test_module import *
 
 
 test1_func(1,2)
