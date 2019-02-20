@@ -22,3 +22,5 @@
 #Collaborative Fitering         协作型过滤
 #Best-fit line                  最佳拟合线
 #grade inflation                夸大分值
+#user-based Collaborative filtering 基于用户的协作型过滤
+#item-based Collaborative filtering 基于物品的协作型过滤
